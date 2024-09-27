@@ -4,7 +4,7 @@ This repository contains the material delivered for the final project of the cou
 
 - Consider a proper domain for our numerical study
 - Generate a suitable grid for our fluid domain based on the turbulence model we are implementing
-- Choose 𝑘 − 𝜖 or 𝑘 − 𝜔 turbulent models
+- Choose $k - \epsilon$ or $k - \omega$ turbulent models 
 - Use second order upwind scheme for the convective term’s discretization
 
 
@@ -17,4 +17,4 @@ This repository contains the material delivered for the final project of the cou
 1. Research the purpose of prism layer meshing and the meaning of $y^+$.
 
 
-[^1]: I. H. Abbott and A. E. Von Doenhoff, Theory of wing sections, including a summary of airfoil data. Courier Corporation, 1959.
+[^1]: I. H. Abbott and A. E. Von Doenhoff, "*Theory of wing sections, including a summary of airfoil data*". Courier Corporation, 1959.
